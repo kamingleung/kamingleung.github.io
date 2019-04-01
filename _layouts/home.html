@@ -1,4 +1,4 @@
----
+ ---
 layout: default
 ---
 
@@ -19,7 +19,7 @@ layout: default
     <ul class="list-unstyled">
       {%- for post in site.posts -%}
       <li>
-        <span class="text-muted">
+        <span class="text-muted"> 
           {%- assign date_format = "%b %-d, %Y" -%}
           {{ post.date | date: date_format }}
         </span>

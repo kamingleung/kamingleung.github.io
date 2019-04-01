@@ -1,3 +1,5 @@
+.project-container { margin: 40px 0; }
+
 /*!
  * Bootstrap v4.1.0 (https://getbootstrap.com/)
  * Copyright 2011-2018 The Bootstrap Authors
@@ -2432,3 +2434,6 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 .highlight .il { color: #099; }
 
 .page-content img { max-width: 100%; }
+
+a { color: #035ca9; text-decoration: none; }
+a:hover { color: #03437b; }
